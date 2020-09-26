@@ -1,3 +1,3 @@
 Copy the config to the following directory:
 
-Counter-Strike: Global Offensive    ==>     C:\Program Files (x86)\Valve\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+Counter-Strike: Global Offensive    ==>     C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
